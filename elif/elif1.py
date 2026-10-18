@@ -6,5 +6,5 @@ for i in range(num):
     elif(i%2!=0):
         continue
     else:
-        print("Invalid input")
+        print("Invalid input") 
     
