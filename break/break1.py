@@ -4,7 +4,7 @@ print(type(arr))
 
 for i in arr:
     
-    if(i==5):
+    if(i==4):
         break
     
     print(i)
