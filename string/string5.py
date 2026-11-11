@@ -7,6 +7,7 @@ print(result)
 
 print(s.upper())
 
+print (s.count())
 print(s.lower())
 
 print(s.title())
