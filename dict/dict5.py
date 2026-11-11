@@ -2,7 +2,8 @@ dict={
     "name":"Abhi",
     "age":12,
     "city":"pune",
-    "country":"india"
+    "country":"india",
+    "roll_no:14
 }
 
 dict.pop("country")
