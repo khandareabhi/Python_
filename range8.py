@@ -5,4 +5,4 @@ for i in range(1,10):
 
 
 for i in range(2,10,2):
-    print("added that: ",i)
+    print("added that: ",i) #updated this line to print the even numbers in the range from 2 to 10
