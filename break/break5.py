@@ -1,6 +1,6 @@
 arr=[1,2,3,5,6,7,8,9]
 
-print(type(arr))
+print(type(arr)) #get me type of the date in this like list see me in the arr 
 
 for i in arr:
     if(i==5):
